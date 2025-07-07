@@ -3,4 +3,4 @@ The purpose of the SBIRT program is to implement the screening, brief interventi
 
 ### Updates
 - Sex column added 7/7/2025
-  - Based on the 'WHAT_DO_YOU_CONSIDER_YOURSELF_TO_BE' column
+  - Based on the 'WHAT_DO_YOU_CONSIDER_YOURSELF_TO_BE' column only to be completed at intakes
